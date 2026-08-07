@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CALoopsExamples.Example6</StartupObject>
+    <StartupObject>CALoopsExamples.Example8</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,7 @@
     <Compile Include="Example5.cs" />
     <Compile Include="Example6.cs" />
     <Compile Include="Example7.cs" />
+    <Compile Include="Example8.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
