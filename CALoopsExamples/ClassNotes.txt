@@ -1,0 +1,98 @@
+﻿Sample Project:
+
+=================================
+       WELCOME TO AMAZON
+=================================
+
+PRODUCTS
+---------------------------------
+1. Laptop - ₹55000
+2. Mouse - ₹800
+3. Keyboard - ₹1500
+4. Headphones - ₹2500
+5. USB Cable - ₹500
+0. Checkout
+
+Select product number: 1
+
+Enter quantity: 1
+
+1 Laptop added to cart.
+
+PRODUCTS
+---------------------------------
+1. Laptop - ₹55000
+2. Mouse - ₹800
+3. Keyboard - ₹1500
+4. Headphones - ₹2500
+5. USB Cable - ₹500
+0. Checkout
+
+Select product number: 2
+
+Enter quantity: 2
+
+2 Mouse added to cart.
+
+PRODUCTS
+---------------------------------
+1. Laptop - ₹55000
+2. Mouse - ₹800
+3. Keyboard - ₹1500
+4. Headphones - ₹2500
+5. USB Cable - ₹500
+0. Checkout
+
+Select product number: 0
+
+=================================
+          SHOPPING BILL
+=================================
+
+Laptop x 1 = ₹55000
+Mouse x 2 = ₹1600
+---------------------------------
+Subtotal = ₹56600
+Discount = ₹5660
+GST (18%) = ₹9170.8
+---------------------------------
+Final Amount = ₹50110.8
+
+Thank you for shopping!
+
+Concepts that are used here:
+- Input and Out Statements
+- Arrays
+- Operators
+- Conditional Statements (If, if else etc.)
+- Loops
+
+             START
+               ↓
+       Display Products
+               ↓
+        User selects item
+               ↓
+       Is selection valid?
+          /          \
+        NO            YES
+        ↓              ↓
+     Error         Enter Quantity
+        ↓               ↓
+     START         Add to Cart
+                       ↓
+                Continue Shopping?
+                  /          \
+                YES           NO
+                ↓              ↓
+        Display Products    Calculate Bill
+                               ↓
+                           Subtotal
+                               ↓
+                            Discount
+                               ↓
+                              GST
+                               ↓
+                         Final Amount
+                               ↓
+                              END
