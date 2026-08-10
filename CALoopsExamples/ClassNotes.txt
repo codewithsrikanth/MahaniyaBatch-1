@@ -95,4 +95,21 @@ Concepts that are used here:
                                ↓
                          Final Amount
                                ↓
-                              END
+                              End
+Task: Bank Example
+		- AccountNumber
+		- AccountHolderName
+		- Balance
+		
+DisplayAccountDetails()
+Deposit(amount)
+GetBalance()	- return balance
+Withdraw(amount)
+IsEligibleLoan()	- balance >= 100000
+
+Deposit amount must be > 0
+Withdrawal amount must be > 0
+Withdrawal amount cannot be greater than balance
+Loan eligibility:
+Balance >= 100,000 → Eligible
+Balance < 100,000  → Not Eligible
