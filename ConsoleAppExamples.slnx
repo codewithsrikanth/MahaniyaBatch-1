@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="CAAbstractClasses/CAAbstractClasses.csproj" Id="36a7475f-56f9-48fe-a08b-59d6425d808b" />
   <Project Path="CAAccessModifiers1/CAAccessModifiers1.csproj" Id="da258b67-8749-4771-ab1b-09ed8d5ddd8a" />
   <Project Path="CAAccessModifiers2/CAAccessModifiers2.csproj" Id="32c13b21-be5b-4078-85eb-0e683492a728" />
   <Project Path="CABasics/CABasics.csproj" Id="79fdcb5b-0f2e-4490-bda1-f8e97229d0db" />

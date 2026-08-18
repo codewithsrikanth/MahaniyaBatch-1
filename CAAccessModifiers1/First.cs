@@ -4,7 +4,7 @@ namespace CAAccessModifiers1
 {
     public class First
     {
-        private void F1()
+        void F1()
         {
             Console.WriteLine("This is Private Method");
         }

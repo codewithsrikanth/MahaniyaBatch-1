@@ -1,6 +1,6 @@
 ﻿namespace CAAccessModifiers1
 {
-    public class Second : First
+    class Second : First
     {
         static void Main(string[] args)
         {
