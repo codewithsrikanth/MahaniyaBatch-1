@@ -6,4 +6,5 @@
   <Project Path="CAInheritence/CAInheritence.csproj" Id="a657c168-fa4f-41b8-8970-73424eef72ee" />
   <Project Path="CALoopsExamples/CALoopsExamples.csproj" Id="24f483e7-cb16-4c54-a157-da10f6a0ad9b" />
   <Project Path="CAOOPS/CAOOPS.csproj" Id="1bb83cb0-3d34-4a1f-a3ce-1a002d66b762" />
+  <Project Path="CAProperties/CAProperties.csproj" Id="5e29c839-ba9f-4ac9-bbb3-9ccd2cc4287e" />
 </Solution>
