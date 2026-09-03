@@ -5,6 +5,7 @@
   <Project Path="CABasics/CABasics.csproj" Id="79fdcb5b-0f2e-4490-bda1-f8e97229d0db" />
   <Project Path="CADelegates/CADelegates.csproj" Id="eba3b1c7-28c5-4bc2-9794-f67c2f72e4a2" />
   <Project Path="CAExceptionHandling/CAExceptionHandling.csproj" Id="06536412-5a14-4279-835a-5911357e09e0" />
+  <Project Path="CAFileHandling/CAFileHandling.csproj" Id="aecfb28c-3161-4037-a789-995dd9370efc" />
   <Project Path="CAGenerics/CAGenerics.csproj" Id="97a414d9-d2f7-45a0-bff2-d490a80eb602" />
   <Project Path="CAInheritence/CAInheritence.csproj" Id="a657c168-fa4f-41b8-8970-73424eef72ee" />
   <Project Path="CALoopsExamples/CALoopsExamples.csproj" Id="24f483e7-cb16-4c54-a157-da10f6a0ad9b" />
